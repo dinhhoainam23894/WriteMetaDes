@@ -6,7 +6,7 @@ Trở lại vào tháng 12, Google đã thực hiện một sự thay đổi đ�
 
 ## Lies, dirty lies, and statistics...
 
-Tôi đã lấy tất cả các đoạn trích tìm kiếm có sẵn từ MozCast 10K (trang kết quả của Google cho 10.000 từ khóa), vì đó là tập dữ liệu chúng tôi thu thập hàng ngày và có lịch sử phong phú. Có 89.383 đoạn mã hiển thị trên tập dữ liệu đó vào sáng ngày 15 tháng 5.
+Tôi đã lấy tất cả các đoạn trích tìm kiếm có sẵn từ MozCast 10K (trang kết quả của Google cho 10.000 từ khóa), vì đó là tập dữ liệu chúng tôi thu thập hàng ngày và có lịch sử phong phú. Có 89.383 đoạn trích hiển thị trên tập dữ liệu đó vào sáng ngày 15 tháng 5.
 
 Tôi có thể nói với bạn rằng, trên toàn bộ tập dữ liệu, độ dài tối thiểu là 6 ký tự, độ dài tối đa là 386, và trung bình là khoảng 159. Điều đó không hữu ích lắm, vì một vài lý do. Đầu tiên, nói với bạn để viết mô tả meta giữa 6–386 ký tự không phải là lời khuyên hữu ích chính xác. Thứ hai, chúng ta đang đối phó với rất nhiều thái cực. Ví dụ: đây là đoạn trích trên tìm kiếm "USMC":
 
@@ -32,7 +32,7 @@ Vì vậy, chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn t
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-5-4779.png)
 
-Điều này trông rất khác với dữ liệu của chúng tôi [vào tháng 12 ](https://moz.com/blog/how-long-should-your-meta-description-be-2018)và được phân cụm rõ ràng trong phạm vi ký tự 150–175. Chúng tôi thấy một vài đoạn mã hiển thị của Google bị cắt sau phạm vi 300+, nhưng những đoạn mã này bị thu hẹp bởi các lần cắt ngắn hơn.
+Điều này trông rất khác với dữ liệu của chúng tôi [vào tháng 12 ](https://moz.com/blog/how-long-should-your-meta-description-be-2018)và được phân cụm rõ ràng trong phạm vi ký tự 150–175. Chúng tôi thấy một vài đoạn trích hiển thị của Google bị cắt sau phạm vi 300+, nhưng những đoạn trích này bị thu hẹp bởi các lần cắt ngắn hơn.
 
 ## Bức tranh tổng quan, part 2
 
@@ -42,7 +42,7 @@ Rõ ràng, có rất nhiều điều xảy ra trong phạm vi 125-175 ký tự �
 
 Chúng ta có thể thấy khá rõ ràng rằng phần lớn các lần cắt giảm xảy ra trong phạm vi ký tự 145–165. Trước tháng 12, các nguyên tắc mô tả meta trước đây của chúng tôi là giữ chúng dưới 155 ký tự, vì vậy dường như Google đã phục hồi nhiều hơn hoặc ít hơn cho các quy tắc cũ.
 
-Hãy nhớ rằng Google sử dụng phông chữ tỷ lệ thuận, vì vậy không có giới hạn ký tự chính xác. Một số người đã đưa ra giả thuyết một giới hạn chiều rộng pixel, giống như với thẻ tiêu đề, nhưng tôi thấy rằng khó khăn hơn để ghim xuống với các đoạn mã nhiều dòng (tình huống thậm chí còn khó khăn hơn trên kết quả di động). Thực tế, cũng khó để viết tới giới hạn pixel. Các dữ liệu cho thấy rằng 155 ký tự là một sự ước lượng hợp lý.
+Hãy nhớ rằng Google sử dụng phông chữ tỷ lệ thuận, vì vậy không có giới hạn ký tự chính xác. Một số người đã đưa ra giả thuyết một giới hạn chiều rộng pixel, giống như với thẻ tiêu đề, nhưng tôi thấy rằng khó khăn hơn để ghim xuống với các đoạn trích nhiều dòng (tình huống thậm chí còn khó khăn hơn trên kết quả di động). Thực tế, cũng khó để viết tới giới hạn pixel. Các dữ liệu cho thấy rằng 155 ký tự là một sự ước lượng hợp lý.
 
 ## To the Wayback Machine... ?!
 
