@@ -62,7 +62,7 @@ Bạn có thể quay trở lại và tàn nhẫn hack tất cả các công vi�
 
 ### (4) Viết mô tả thích ứng với độ dài
 
-Có thể viết mô tả hoạt động tốt ở cả hai độ dài không? Tôi nghĩ rằng có thể, với một số sự quan tâm và lập kế hoạch. Tôi sẽ không nhất thiết phải đề nghị điều này cho mỗi trang, nhưng có lẽ có một cách để ăn bánh và ăn ít nhất một nửa của nó, too ...
+Có thể viết mô tả hoạt động tốt ở cả hai độ dài không? Tôi nghĩ rằng có thể, với một số sự quan tâm và lập kế hoạch. Tôi sẽ không nhất thiết phải đề nghị điều này cho mỗi trang, nhưng có lẽ có một cách để ăn bánh và ăn ít nhất một nửa của nó, quá dấu ...
 
 ## Cách tiếp cận 150/150
  Tôi đã bị ám ảnh một chút với phong cách "[kim tự tháp ngược](https://moz.com/blog/content-for-answers-inverted-pyramid)" của văn bản gần đây. Đây là một phong cách báo chí nơi bạn bắt đầu với sự dẫn đầu hoặc tóm tắt điểm chính của bạn và sau đó chia nhỏ chi tiết, dữ liệu và ngữ cảnh. Mặc dù cách tiếp cận này rất phù hợp với web, nguồn gốc của nó xuất phát từ các giới hạn bố cục trong bản in. Bạn không bao giờ biết khi nào trình soạn thảo của bạn sẽ phải cắt ngắn bài viết của bạn để vừa với không gian sẵn có, do đó, phong cách kim tự tháp ngược giúp đảm bảo rằng phần quan trọng nhất thường được để giành.
