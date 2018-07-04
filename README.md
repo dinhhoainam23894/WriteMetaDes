@@ -24,7 +24,7 @@ Hãy chú ý đến "Jump to Exceptions" và liên kết ngay từ đầu. Nhữ
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-4-11379.png)
 
-Vì vậy, chúng tôi biết rằng các đoạn mã dài hơn vẫn tồn tại. Tuy nhiên, lưu ý rằng cả hai đoạn mã này đều đến từ Wikipedia, đây là ngoại lệ đối với nhiều quy tắc SEO. Những mô tả dài này chỉ có các trường hợp rìa phải không? Nhìn vào giá trị trung bình (hoặc thậm chí là trung bình, trong trường hợp này) không thực sự cho chúng ta biết điều đó.  
+Vì vậy, chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn tại. Tuy nhiên, lưu ý rằng cả hai đoạn mã này đều đến từ Wikipedia, đây là ngoại lệ đối với nhiều quy tắc SEO. Những mô tả dài này chỉ có các trường hợp rìa phải không? Nhìn vào giá trị trung bình (hoặc thậm chí là trung bình, trong trường hợp này) không thực sự cho chúng ta biết điều đó.  
 
 ## Bức tranh tổng quan, part 1
 
