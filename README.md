@@ -2,11 +2,11 @@
 
 **Tóm tắt: **Vào giữa tháng 8 năm 2018, Google đã phục hồi về kiểu đoạn trích ngắn hơn. Dữ liệu của chúng tôi cho thấy những thay đổi này đang lan rộng ra và phải cắt bỏ khoảng 155 đến 160 ký tự.
 
-Trở lại vào tháng 12, Google đã thực hiện một sự thay đổi đáng kể về cách họ hiển thị đoạn trích tìm kiếm, với nghiên cứu của chúng tôi hiển thị nhiều đoạn trích hơn 300 ký tự. Cuối tuần qua, họ dường như đã quay trở lại thay đổi đó (Danny Sullivan đã [xác nhận một phần điều này](https://twitter.com/dannysullivan/status/996065145443893249) trên Twitter vào ngày 14 tháng 8).Bên cạnh câu hỏi hiển nhiên mà ta sẽ đặt ra rằng - Giới hạn mới là gì? - nó có thể khiến bạn tự hỏi làm thế nào để đối phó khi các quy tắc tiếp tục thay đổi. Không ai trong chúng ta có một quả cầu pha lê (như của nhà tiên tri đó hihi), nhưng tôi sẽ cố gắng trả lời cả hai câu hỏi dựa trên những gì chúng ta biết ngày nay.
+Trở lại vào tháng 12, Google đã thực hiện một sự thay đổi đáng kể về cách họ hiển thị đoạn trích tìm kiếm, với nghiên cứu của chúng tôi hiển thị nhiều đoạn trích hơn 300 ký tự. Cuối tuần qua, họ dường như đã quay trở lại thay đổi đó (Danny Sullivan đã [xác nhận một phần điều này](https://twitter.com/dannysullivan/status/996065145443893249) trên Twitter vào ngày 14 tháng 8).Bên cạnh câu hỏi hiển nhiên mà ta sẽ đặt ra rằng - Giới hạn mới là gì? - nó có thể khiến bạn tự hỏi làm thế nào để đối phó khi các quy tắc tiếp tục thay đổi. Không ai trong chúng ta có một quả cầu pha lê, nhưng tôi sẽ cố gắng trả lời cả hai câu hỏi dựa trên những gì chúng ta biết ngày nay.
 
 ## Lies, dirty lies, and statistics...
 
-Tôi đã lấy tất cả các đoạn trích tìm kiếm có sẵn từ MozCast 10K (trang kết quả của Google cho 10.000 từ khóa), vì đó là tập dữ liệu chúng tôi thu thập hàng ngày và có lịch sử phong phú. Có 89.383 đoạn trích hiển thị trên tập dữ liệu đó vào sáng ngày 15 tháng 5.
+Tôi đã lấy tất cả các đoạn trích tìm kiếm có sẵn từ MozCast 10K (trang đầu của Google cho 10.000 từ khóa), vì đó là tập dữ liệu chúng tôi thu thập hàng ngày và có lịch sử phong phú. Có 89.383 đoạn trích hiển thị trên tập dữ liệu đó vào sáng ngày 15 tháng 5.
 
 Tôi có thể nói với bạn rằng, trên toàn bộ tập dữ liệu, độ dài tối thiểu là 6 ký tự, độ dài tối đa là 386, và trung bình là khoảng 159. Điều đó không hữu ích lắm, vì một vài lý do. Đầu tiên, nói với bạn để viết mô tả meta giữa 6–386 ký tự không phải là lời khuyên hữu ích chính xác. Thứ hai, chúng ta đang đối phó với rất nhiều thái cực. Ví dụ: đây là đoạn trích trên tìm kiếm "USMC":
 
@@ -16,7 +16,7 @@ Marine Corps Community Services có thể là một tổ chức tuyệt vời, n
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-2-4999.png)
 
-Bỏ qua sự nhầm lẫn đa thương hiệu nghiêm trọng của họ, tôi nghĩ tất cả chúng ta có thể đồng ý rằng "BER Meta TAG1" không phải là tối ưu. Nếu những trường hợp này dạy cho bạn bất cứ điều gì, nó chỉ là về những gì không làm. Điều gì sẽ xảy ra ở trường hợp ngược lại? Dưới đây là một đoạn trích có 386 ký tự, từ tìm kiếm non-compete agreement":
+Bỏ qua sự nhầm lẫn đa thương hiệu nghiêm trọng của họ, tôi nghĩ tất cả chúng ta có thể đồng ý rằng "BER Meta TAG1" không phải là tối ưu. Nếu những trường hợp này dạy cho bạn bất cứ điều gì, nó chỉ là về những gì không làm. Điều gì sẽ xảy ra ở trường hợp ngược lại? Dưới đây là một đoạn trích có 386 ký tự, từ tìm kiếm "non-compete agreement":
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-3-12620.png)
 
