@@ -28,7 +28,7 @@ Vì vậy, chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn t
 
 ## Bức tranh tổng quan, part 1
 
-Đôi khi, bạn phải để cho dữ liệu cố gắng để nói cho chính nó, với tối thiểu là coaxing. Hãy xem xét tất cả các đoạn trích đã bị cắt (kết thúc bằng "...") và xóa kết quả video (chúng tôi biết từ nghiên cứu trước rằng những đoạn này ngắn hơn một chút). Điều này để lại 42,863 đoạn trích (chỉ bằng một nửa bộ dữ liệu của chúng tôi). Dưới đây là một đồ thị của tất cả các độ dài cắt, thu thập thành 25 thùng ký tự (0-25, 26-50, vv):
+Đôi khi, bạn phải để cho dữ liệu cố gắng để nói cho chính nó, với tối thiểu là coaxing. Hãy xem xét tất cả các đoạn trích đã bị cắt (kết thúc bằng "...") và xóa kết quả video (chúng tôi biết từ nghiên cứu trước rằng những đoạn này ngắn hơn một chút). Điều này để lại 42,863 đoạn trích (chỉ bằng một nửa bộ dữ liệu của chúng tôi). Dưới đây là một đồ thị của tất cả các độ dài cắt, thu thập thành 25 nhóm ký tự (0-25, 26-50, vv):
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-5-4779.png)
 
