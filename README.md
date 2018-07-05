@@ -1,8 +1,8 @@
 ## Làm thế nào để viết Meta mô tả trong một thế giới thay đổi liên tục (AKA Google Giveth, Google Taketh Away)
 
-**Tóm tắt: **Vào giữa tháng 8 năm 2018, Google đã phục hồi về kiểu đoạn trích ngắn hơn. Dữ liệu của chúng tôi cho thấy những thay đổi này đang lan rộng ra và phải cắt bỏ khoảng 155 đến 160 ký tự.
+**Tóm tắt: **Vào giữa tháng 8 năm 2018, Google đã quay về kiểu đoạn trích ngắn hơn. Dữ liệu của chúng tôi cho thấy những thay đổi này đang lan rộng ra và phải cắt bỏ khoảng 155 đến 160 ký tự.
 
-Trở lại vào tháng 12, Google đã thực hiện một sự thay đổi đáng kể về cách họ hiển thị đoạn trích tìm kiếm, với nghiên cứu của chúng tôi hiển thị nhiều đoạn trích hơn 300 ký tự. Cuối tuần qua, họ dường như đã quay trở lại thay đổi đó (Danny Sullivan đã [xác nhận một phần điều này](https://twitter.com/dannysullivan/status/996065145443893249) trên Twitter vào ngày 14 tháng 8).Bên cạnh câu hỏi hiển nhiên mà ta sẽ đặt ra rằng - Giới hạn mới là gì? - nó có thể khiến bạn tự hỏi làm thế nào để đối phó khi các quy tắc tiếp tục thay đổi. Không ai trong chúng ta có một quả cầu pha lê (như của nhà tiên tri đó hihi), nhưng tôi sẽ cố gắng trả lời cả hai câu hỏi dựa trên những gì chúng ta biết ngày nay.
+Trở lại vào tháng 12, Google đã thực hiện một sự thay đổi đáng kể về cách họ hiển thị đoạn trích tìm kiếm, với nghiên cứu của chúng tôi hiển thị nhiều đoạn trích hơn 300 ký tự. Cuối tuần qua, họ dường như đã quay trở lại thay đổi trước đó (Danny Sullivan đã [xác nhận một phần điều này](https://twitter.com/dannysullivan/status/996065145443893249) trên Twitter vào ngày 14 tháng 8).Bên cạnh câu hỏi hiển nhiên mà ta sẽ đặt ra rằng - Giới hạn mới là gì? - nó có thể khiến bạn tự hỏi làm thế nào để đối phó khi các quy tắc tiếp tục thay đổi. Không ai trong chúng ta có một quả cầu pha lê (như của nhà tiên tri đó hihi), nhưng tôi sẽ cố gắng trả lời cả hai câu hỏi dựa trên những gì chúng ta biết ngày nay.
 
 ## Lies, dirty lies, and statistics...
 
@@ -12,11 +12,11 @@ Tôi có thể nói với bạn rằng, trên toàn bộ tập dữ liệu, đ�
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-1-4065.png)
 
-Marine Corps Community Services có thể là một tổ chức tuyệt vời, nhưng tôi xin lỗi khi báo cáo rằng mô tả meta của họ, thực ra là "quả táo" (Google nối thêm 1 khoảng thời gian, tôi cho là tuyệt vọng). Dưới đây là một đoạn trích cho tìm kiếm trên cửa hàng bách hóa "Younkers":
+Marine Corps Community Services có thể là một tổ chức tuyệt vời, nhưng tôi xin lỗi khi báo cáo rằng mô tả meta của họ, thực ra nó chỉ là "vẻ bề ngoài" (Google nối thêm 1 khoảng thời gian, tôi cho là tuyệt vọng). Dưới đây là một đoạn trích cho tìm kiếm trên cửa hàng bách hóa "Younkers":
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-2-4999.png)
 
-Bỏ qua sự nhầm lẫn đa thương hiệu nghiêm trọng của họ, tôi nghĩ tất cả chúng ta có thể đồng ý rằng "BER Meta TAG1" không phải là tối ưu. Nếu những trường hợp này dạy cho bạn bất cứ điều gì, nó chỉ là về những gì không làm. Điều gì sẽ xảy ra ở trường hợp ngược lại? Dưới đây là một đoạn trích có 386 ký tự, từ tìm kiếm non-compete agreement":
+Bỏ qua sự nhầm lẫn giữa các thương hiệu khá nghiêm trọng của họ, tôi nghĩ tất cả chúng ta có thể đồng ý rằng "BER Meta TAG1" không phải là tối ưu. Nếu những trường hợp này dạy cho bạn bất cứ điều gì, nó chỉ là về những gì bạn không nên làm. Điều gì sẽ xảy ra ở trường hợp ngược lại? Dưới đây là một đoạn trích có 386 ký tự, từ tìm kiếm "non-compete agreement":
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-3-12620.png)
 
@@ -24,11 +24,11 @@ Hãy chú ý đến "Jump to Exceptions" và liên kết ngay từ đầu. Nhữ
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-4-11379.png)
 
-Vì vậy, chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn tại. Tuy nhiên, lưu ý rằng cả hai đoạn trích này đều đến từ Wikipedia, đây là ngoại lệ đối với nhiều quy tắc SEO. Những mô tả dài này chỉ có các trường hợp rìa phải không? Nhìn vào giá trị trung bình (hoặc thậm chí là trung bình, trong trường hợp này) không thực sự cho chúng ta biết điều đó.  
+Vì vậy, chúng tôi biết rằng các đoạn trích dài hơn vẫn tồn tại. Tuy nhiên, lưu ý rằng cả hai đoạn trích này đều đến từ Wikipedia, đây là ngoại lệ đối với nhiều quy tắc SEO. Những mô tả dài này chỉ có các trường hợp rìa phải không? Nhìn vào giá trị ở đoạn giữa (hoặc thậm chí là trung bình, trong trường hợp này) không thực sự cho chúng ta biết điều đó.  
 
-## Bức tranh tổng quan, part 1
+## Bức tranh tổng quan, phần 1
 
-Đôi khi, bạn phải để cho dữ liệu cố gắng để nói cho chính nó, với tối thiểu là coaxing. Hãy xem xét tất cả các đoạn trích đã bị cắt (kết thúc bằng "...") và xóa kết quả video (chúng tôi biết từ nghiên cứu trước rằng những đoạn này ngắn hơn một chút). Điều này để lại 42,863 đoạn trích (chỉ bằng một nửa bộ dữ liệu của chúng tôi). Dưới đây là một đồ thị của tất cả các độ dài cắt, thu thập thành 25 nhóm ký tự (0-25, 26-50, vv):
+Đôi khi, bạn phải để cho dữ liệu cố gắng tự nói về chính nó, với tối thiểu là coaxing. Hãy xem xét tất cả các đoạn trích đã bị cắt (kết thúc bằng "...") và xóa kết quả video (chúng tôi biết từ nghiên cứu trước rằng những đoạn này ngắn hơn một chút). Điều này để lại 42,863 đoạn trích (chỉ bằng một nửa bộ dữ liệu của chúng tôi). Dưới đây là một đồ thị của tất cả các độ dài cắt, thu thập thành 25 nhóm ký tự (0-25, 26-50, vv):
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-5-4779.png)
 
@@ -40,7 +40,7 @@ Rõ ràng, có rất nhiều điều xảy ra trong phạm vi 125-175 ký tự �
 
 ![](//d1avok0lzls2w.cloudfront.net/uploads/blog/meta-desc-2018-6-4992.png)
 
-Chúng ta có thể thấy khá rõ ràng rằng phần lớn các lần cắt giảm xảy ra trong phạm vi ký tự 145–165. Trước tháng 12, các nguyên tắc mô tả meta trước đây của chúng tôi là giữ chúng dưới 155 ký tự, vì vậy dường như Google đã phục hồi nhiều hơn hoặc ít hơn cho các quy tắc cũ.
+Chúng ta có thể thấy khá rõ ràng rằng phần lớn các lần cắt giảm xảy ra trong phạm vi ký tự 145–165. Trước tháng 12, các nguyên tắc mô tả meta trước đây của chúng tôi là giữ chúng dưới 155 ký tự, vì vậy dường như Google đã phục hồi ít nhiều cho các quy tắc cũ.
 
 Hãy nhớ rằng Google sử dụng phông chữ tỷ lệ thuận, vì vậy không có giới hạn ký tự chính xác. Một số người đã đưa ra giả thuyết một giới hạn chiều rộng pixel, giống như với thẻ tiêu đề, nhưng tôi thấy rằng khó khăn hơn để ghim xuống với các đoạn trích nhiều dòng (tình huống thậm chí còn khó khăn hơn trên kết quả di động). Thực tế, cũng khó để viết tới giới hạn pixel. Các dữ liệu cho thấy rằng 155 ký tự là một sự ước lượng hợp lý.
 
@@ -50,15 +50,15 @@ Chúng ta có nên quay trở lại với 155 ký tự không? Nếu bạn đã 
 
 ### (1) Hãy để Google xử lý nó
 
-Một số trang web không có mô tả meta. Wikipedia xảy ra vấn đề là một trong số họ. Bây giờ, sự hiểu biết của Google về nội dung của Wikipedia sâu sắc hơn nhiều so với hầu hết các trang web (một phần, nhờ Wikidata), nhưng nhiều trang web làm tốt mà không có thẻ. Nếu lựa chọn của bạn là viết thẻ không hợp lệ, lặp lại hoặc để trống, thì tôi sẽ nói để trống chúng và để Google sắp xếp.
+Một số trang web không có mô tả meta. Vấn đề của Wikipedia là một trong số họ. Bây giờ, sự hiểu biết của Google về nội dung của Wikipedia sâu sắc hơn nhiều so với hầu hết các trang web (một phần, nhờ Wikidata), nhưng nhiều trang web làm tốt mà không có thẻ. Nếu lựa chọn của bạn là viết thẻ không hợp lệ, lặp lại hoặc để trống, thì tôi sẽ nói để trống chúng và để Google sắp xếp.
 
-### (2) Hãy để ... rơi nơi nó có thể
+### (2) Hãy để ... vào nơi nó có thể
 
 Bạn chỉ có thể viết cho độ dài bạn nghĩ là lý tưởng cho bất kỳ trang nào (trong vòng suy luận), và nếu đoạn trích bị cắt bỏ, đừng lo lắng về nó. Có lẽ dấu ba chấm (...) thêm như 1 mẹo vào sau. Tôi chỉ đùa 1 nửa thôi, nhưng thực tế là việc cắt bỏ không phải là nụ hôn của thần chết đâu.Một mô tả hay nên lôi kéo mọi người muốn đọc thêm.
 
 ### (3) Cắt tất cả mọi thứ ở 155 ký tự
 
-Bạn có thể quay trở lại và tàn nhẫn hack tất cả các công việc khó khăn của bạn trở lại 155 ký tự. Tôi nghĩ rằng điều này thường sẽ mất nhiều thời gian và có thể dẫn đến các đoạn tìm kiếm thậm chí tệ hơn nữa. Nếu bạn muốn viết lại mô tả Meta ngắn hơn cho các trang quan trọng nhất của mình, điều đó hoàn toàn hợp lý, nhưng hãy nhớ rằng một số kết quả vẫn hiển thị các đoạn mã dài hơn và tình trạng này sẽ tiếp tục phát triển.
+Bạn có thể quay trở lại và cố gắng sửa tất cả các công việc của bạn trở lại 155 ký tự. Tôi nghĩ rằng điều này thường sẽ mất nhiều thời gian và có thể dẫn đến các đoạn tìm kiếm thậm chí tệ hơn nữa. Nếu bạn muốn viết lại mô tả Meta ngắn hơn cho các trang quan trọng nhất của mình, điều đó hoàn toàn hợp lý, nhưng hãy nhớ rằng một số kết quả vẫn hiển thị các đoạn mã dài hơn và tình trạng này sẽ tiếp tục phát triển.
 
 ### (4) Viết mô tả thích ứng với độ dài
 
@@ -79,7 +79,7 @@ Vào tháng 12, chúng tôi đã báo cáo rằng Google đã tăng đoạn trí
 
 Theo nghiên cứu mới của chúng tôi (tháng 5 năm 2018), giới hạn này là 155-160 ký tự. SEO nên thích ứng với những thay đổi này như thế nào?
 
-Dòng 1 có phiên bản ngắn của câu chuyện và hy vọng người tìm kiếm biết họ đang đi đúng hướng. Dòng 2 đi sâu vào một vài chi tiết và cho đi chỉ đủ dữ liệu (hy vọng) là hấp dẫn. Nếu Google sử dụng mô tả dài hơn, nó sẽ hoạt động tốt, nhưng nếu không, chúng ta không nên tệ hơn khi mặc.
+Dòng 1 có phiên bản ngắn của câu chuyện và hy vọng người tìm kiếm biết họ đang đi đúng hướng. Dòng 2 đi sâu vào một vài chi tiết và cho đi chỉ đủ dữ liệu (hy vọng) là hấp dẫn. Nếu Google sử dụng mô tả dài hơn, nó sẽ hoạt động tốt, nhưng nếu không, chúng ta không nên làm mọi thứ tệ hơn.
 
 ## Bạn có nên bận tâm không?
 
